@@ -28,7 +28,7 @@ Example Output ==>
 
 Enter the letters in your rack: abcde
 
-2 Letter Words:
+`2 letter words`:
 
 ab - 4 points
 
@@ -47,7 +47,8 @@ ae - 2 points
 aa - 2 points
 
 
-3 Letter Words:
+
+`3 letter words`:
 
 cab - 7 points
 
@@ -72,7 +73,8 @@ add - 5 points
 dee - 4 points
 
 
-4 Letter Words:
+
+`4 letter words`:
 
 abbe - 8 points
 
@@ -89,7 +91,8 @@ bead - 7 points
 dace - 7 points
 
 
-5 Letter Words:
+
+`5 letter words`:
 
 No Words
 
