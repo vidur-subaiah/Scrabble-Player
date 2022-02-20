@@ -31,38 +31,61 @@ Enter the letters in your rack: abcde
 2 Letter Words:
 
 ab - 4 points
+
 be - 4 points
+
 ba - 4 points
+
 ad - 3 points
+
 de - 3 points
+
 ed - 3 points
+
 ae - 2 points
+
 aa - 2 points
 
 
 3 Letter Words:
 
 cab - 7 points
+
 dab - 6 points
+
 deb - 6 points
+
 bed - 6 points
+
 cad - 6 points
+
 bad - 6 points
+
 cee - 5 points
+
 ace - 5 points
+
 bee - 5 points
+
 add - 5 points
+
 dee - 4 points
 
 
 4 Letter Words:
 
 abbe - 8 points
+
 aced - 7 points
+
 abed - 7 points
+
 bade - 7 points
+
 cade - 7 points
+
 bead - 7 points
+
 dace - 7 points
 
 
